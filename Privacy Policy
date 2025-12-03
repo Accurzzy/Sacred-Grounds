@@ -1,0 +1,139 @@
+# Privacy Policy  
+**Last Updated: December 2025**  
+**Application Name:** Sacred Grounds  
+**Contact:** kevin.willy31@gmail.com
+
+This Privacy Policy explains how **Sacred Grounds** (“the bot”) collects, uses, and stores user data. By using Sacred Grounds, you agree to the terms outlined below.
+
+---
+
+## 1. Information We Collect
+Sacred Grounds only collects the minimum information required for operation. This includes:
+
+### **User Data**
+- Discord User ID  
+- Linked gaming accounts, including:  
+  - Activision ID  
+  - Xbox Gamertag  
+  - PlayStation Gamertag  
+  - Battle.net Tag  
+  - Steam Friend Code  
+  - Riot ID  
+
+### **Server Configuration**
+- Channel IDs used for general linking and admin commands  
+- Guild ID  
+- Role IDs used for reminders  
+
+### **Reminder Data**
+- Message content  
+- Scheduled time and day  
+- Timezone  
+- Channel ID where reminders will be sent  
+
+### **Timestamps**
+- When linked accounts were added or updated  
+
+---
+
+## 2. How We Use Your Information
+Data collected by Sacred Grounds is used for:
+
+- Linking and displaying player gaming IDs  
+- Scheduling and sending automated reminders  
+- Enforcing channel restrictions for bot commands  
+- Organizing and displaying player information to server admins  
+- Basic analytics and error handling (non-personal)
+
+We **do not** use your data for advertising, profiling, or marketing.
+
+---
+
+## 3. How Your Data Is Stored
+All data is stored in a private MySQL database with access restricted to the developer.  
+Standard security practices are used to protect data.
+
+No data is shared with third parties.
+
+---
+
+## 4. Data Sharing
+We **never** sell, rent, or share your personal data with:
+
+- Advertisers  
+- Analytics platforms  
+- Third-party companies  
+- Other Discord servers  
+
+Data is only visible:
+
+- To the Sacred Grounds system  
+- To your Discord server's admins when using admin commands  
+- To you when viewing your own linked accounts  
+
+---
+
+## 5. Data Removal & User Rights
+Users have the right to:
+
+- Request deletion of their data  
+- Request updates or corrections  
+- Request to view all stored data about them  
+
+You may request data removal by:
+
+- Using the `/unlink` command  
+- Contacting your server administrator  
+- Emailing the developer at **kevin.willy31@gmail.com**
+
+Server administrators may delete data by:
+
+- Removing accounts manually  
+- Removing reminders  
+- Deleting server configurations  
+- Removing the bot from the server (which halts all future data collection)
+
+---
+
+## 6. Children's Privacy
+Sacred Grounds does **not** knowingly collect data from children under 13 (or your local age requirement).  
+If such data is discovered, it will be deleted upon request.
+
+---
+
+## 7. Security
+We take reasonable measures to protect user data, including:
+
+- Password-protected database  
+- Network security layers  
+- Access restriction to the developer only  
+
+However, no system can guarantee 100% security.  
+Use of the bot is at your own risk.
+
+---
+
+## 8. Data Retention
+Data is retained only as long as:
+
+- The bot remains in your server  
+- The user does not request deletion  
+- The server does not request deletion  
+
+If the bot is removed from a server, activity stops; stored data remains until removed manually or by administrator request.
+
+---
+
+## 9. Policy Updates
+This Privacy Policy may change over time.  
+Users will be expected to check the document manually for updates.
+
+Continued use of Sacred Grounds after updates constitutes acceptance of the revised policy.
+
+---
+
+## 10. Contact
+For questions, concerns, or data removal requests:
+
+📧 **kevin.willy31@gmail.com**
+
